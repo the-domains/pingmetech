@@ -2,6 +2,7 @@ name: pingmetech
 favicon: null
 layout_spectrum: 0.22467233706265688
 typography_spectrum: 0.8650899729691446
+title: PingMe Dot Tech
 cta:
   domain: null
   bucket: null
