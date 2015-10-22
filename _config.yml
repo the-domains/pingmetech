@@ -1,7 +1,7 @@
 name: pingmetech
 favicon: null
-layout_spectrum: 0.22467233706265688
-typography_spectrum: 0.8650899729691446
+layout_spectrum: 0.20061
+typography_spectrum: 0.44797
 title: PingMe Dot Tech
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#5e6b6a'
     - '#a4a495'
   brandStrength: 0.9521411960013211
-  lightness: 0.5419974797405303
-  saturation: 0.6825863616541028
+  lightness: 0.3125
+  saturation: 0.1875
   rhythmicContrast: 0.5814835573546588
 purpose: []
